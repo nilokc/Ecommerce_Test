@@ -1,0 +1,5 @@
+DEBUG:LogResults:debug message
+INFO:LogResults:info message
+WARNING:LogResults:warn message
+ERROR:LogResults:error message
+CRITICAL:LogResults:critical message
